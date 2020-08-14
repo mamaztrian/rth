@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RTH": "RTH Hutan Kota", "TOPONIMI": "Hutan Kota Segamas", "LUAS": null, "KETERANGAN": null, "KELURAHAN": "Kalikabong", "KECAMATAN": "Kalimanah", "FOTO": "Hutan Kota Segamas 2.JPG" }, "geometry": { "type": "Point", "coordinates": [ 109.34751149685815, -7.401628016120014 ] } },
+{ "type": "Feature", "properties": { "RTH": "RTH Hutan Kota", "TOPONIMI": "Hutan Kota Wasesa", "LUAS": "0,87", "KETERANGAN": "SK. Bupati No 660.1\/1991 Tahun 2011", "KELURAHAN": "Kalikabong", "KECAMATAN": "Kalimanah", "FOTO": "Hutan Kota Wasesa (1).JPG" }, "geometry": { "type": "Point", "coordinates": [ 109.34832011598064, -7.401352017781335 ] } },
+{ "type": "Feature", "properties": { "RTH": "RTH Hutan Kota", "TOPONIMI": "Hutan Kota Segamas", "LUAS": null, "KETERANGAN": null, "KELURAHAN": "Kalikabong", "KECAMATAN": "Kalimanah", "FOTO": "Hutan Kota Segamas 1.JPG" }, "geometry": { "type": "Point", "coordinates": [ 109.34739502745862, -7.400347958891132 ] } },
+{ "type": "Feature", "properties": { "RTH": "RTH Hutan Kota", "TOPONIMI": "Hutan Kota Kerkop", "LUAS": "0,32", "KETERANGAN": "SK. Bupati No 660.1\/1991 Tahun 2011", "KELURAHAN": "Purbalingga Wetan", "KECAMATAN": "Purbalingga", "FOTO": "Hutan Kota Kerkop.jpg" }, "geometry": { "type": "Point", "coordinates": [ 109.37491297445428, -7.398244358290469 ] } },
+{ "type": "Feature", "properties": { "RTH": "RTH Hutan Kota", "TOPONIMI": "Hutan Kota Kandanggampang", "LUAS": "0,38", "KETERANGAN": "SK. Bupati No 660.1\/1991 Tahun 2011", "KELURAHAN": "Kandang Gampang", "KECAMATAN": "Purbalingga", "FOTO": "Hutan Kota Kadanggampang 1.JPG" }, "geometry": { "type": "Point", "coordinates": [ 109.34808133788351, -7.396906012402496 ] } },
+{ "type": "Feature", "properties": { "RTH": "RTH Hutan Kota", "TOPONIMI": "Hutan Kota GOR Goentoer Darjono", "LUAS": "2,67", "KETERANGAN": "SK. Bupati No 522\/215 Tahun 2011", "KELURAHAN": "Purbalingga Kidul", "KECAMATAN": "Purbalingga", "FOTO": "Hutan Kota Goentur Darjono2.jpg" }, "geometry": { "type": "Point", "coordinates": [ 109.36095266793131, -7.392783200883969 ] } },
+{ "type": "Feature", "properties": { "RTH": "RTH Hutan Kota", "TOPONIMI": "Hutan Kota Depan SMKN 3", "LUAS": "0,33", "KETERANGAN": null, "KELURAHAN": "Purbalingga Lor", "KECAMATAN": "Purbalingga", "FOTO": "Hutan Kota Depan SMKN 3.jpg" }, "geometry": { "type": "Point", "coordinates": [ 109.34789018788194, -7.380892039236187 ] } },
+{ "type": "Feature", "properties": { "RTH": "RTH Hutan Kota", "TOPONIMI": "Hutan Kota KPUD", "LUAS": "1,36", "KETERANGAN": "SK. Bupati No 522\/215 Tahun 2011", "KELURAHAN": "Kalikajar", "KECAMATAN": "Kaligondang", "FOTO": "Hutan Kota KPUD 1.JPG" }, "geometry": { "type": "Point", "coordinates": [ 109.38080142764386, -7.380714558929697 ] } }
+]
+}
